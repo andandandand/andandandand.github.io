@@ -1,0 +1,12 @@
+---
+layout:     post
+title:      "Wubba lubba dub dub"
+date:       2016-04-12 00:00:00
+author:     "Antonio Rueda Toicen"
+header-img: "img/heart/dissection.jpg"
+comments: true
+---
+
+
+
+

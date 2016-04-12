@@ -1,0 +1,17 @@
+# Site settings
+title: Digital Spacetime
+header-img: img/tv_death_660.jpg
+email: antonio.rueda.toicen@gmail.com
+description: "Antonio Rueda Toicen's homepage"
+#baseurl: "digital-spaceti.me"
+url: "http://andandand.github.io"
+github_username:  andandandand
+linkedin: https://www.linkedin.com/in/antonioruedatoicen
+
+# Build settings
+gems: [jekyll-paginate]
+markdown: kramdown
+highlighter: pygments
+paginate: 5
+excerpt_separator: <!--more-->
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
