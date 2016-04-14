@@ -1,10 +1,10 @@
 # Site settings
 title: Digital Spacetime
-header-img: img/tv_death_660_v2.jpg
+header-img: img/tv_death_660.jpg
 email: antonio.rueda.toicen@gmail.com
 description: "Antonio Rueda Toicen's homepage"
-#baseurl: ""
-url: "http://digital-spaceti.me"
+#baseurl: "digital-spaceti.me"
+url: "http://andandand.github.io"
 github_username:  andandandand
 linkedin: https://www.linkedin.com/in/antonioruedatoicen
 

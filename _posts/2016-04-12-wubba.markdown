@@ -3,10 +3,10 @@ layout:     post
 title:      "Wubba lubba dub dub"
 date:       2016-04-12 00:00:00
 author:     "Antonio Rueda Toicen"
-header-img: "img/heart/dissection.jpg"
+header-img: "img/tv_death_4.jpg"
 comments: true
 ---
 
 
 
-
+$$H(X) = -\sum_{i=1}^{n} P(x_{i}) log_{2}P(x_{i})$$
