@@ -15,5 +15,5 @@ Here's a video tutorial that I prepared on 2014 using the Wolfram Language and i
 " target="_blank"><img src="http://img.youtube.com/vi/HG4GmmKA9JI/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-[The full code is on Github.](ttps://github.com/andandandand/fractal-dimension-of-brain-tumors-w-box-counting-algo "Wolfram Language repository for the tutorial")
+[The full code is on Github.](https://github.com/andandandand/fractal-dimension-of-brain-tumors-w-box-counting-algo "Wolfram Language repository for the tutorial")
 
