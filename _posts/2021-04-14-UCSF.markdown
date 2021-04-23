@@ -1,5 +1,5 @@
 ---
-title:      "From reproducible data science to business solutions at the University of San Francisco"
+title:      "'From reproducible data science to business solutions' at the University of San Francisco"
 date:       2021-04-14 00:00:00
 author:     "Antonio Rueda Toicen"
 header-img: "img/tv_death_4.jpg"
