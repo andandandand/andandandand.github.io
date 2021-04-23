@@ -1,0 +1,17 @@
+---
+title:      "From reproducible data science to business solutions at the University of San Francisco"
+date:       2021-04-14 00:00:00
+author:     "Antonio Rueda Toicen"
+header-img: "img/tv_death_4.jpg"
+comments: true
+---
+
+I will be giving a presentation: "From reproducible data science to business solutions" for the Women and Diversity in Economics Group at the University of San Francisco, 21/04/2021.
+
+![alt text](img/AntonioRueda-21April.eng.jpg "UCSF ad")
+
+[Zoom link](https://zoom.us/j/7811934986?pwd=NGpaSjFTTnRqSE84OE1mL0VzNTlFZz09#success). 
+
+The slides are available here: 
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/d0SFiNSs3QUsPt" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AntonioRuedaToicen/reproducible-data-science-and-business-solutions" title="Reproducible data science and business solutions" target="_blank">Reproducible data science and business solutions</a> </strong> from <strong><a href="https://www.slideshare.net/AntonioRuedaToicen" target="_blank">Antonio Rueda-Toicen</a></strong> </div>
