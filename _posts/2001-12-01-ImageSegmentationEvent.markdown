@@ -1,6 +1,6 @@
 ---
 title:      "Berlin Computer Vision Group: Image Segmentation with Deep Learning"
-date:       2021-02-08 00:00:00
+date:       2020-12-01 00:00:00
 author:     "Antonio Rueda Toicen"
 header-img: "img/tv_death_4.jpg"
 comments: true
