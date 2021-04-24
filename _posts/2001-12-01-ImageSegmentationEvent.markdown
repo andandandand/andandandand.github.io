@@ -16,7 +16,7 @@ comments: true
 
 - Panoptic segmentation with [Panoptic Feature Pyramid Networks](https://arxiv.org/pdf/1901.02446.pdf)
 
-We will use [Google Colab](https://colab.research.google.com/) as compute environment, the workshop won't require the installation of local software.
+We will use [Google Colab](https://colab.research.google.com/) as compute environment the workshop won't require the installation of local software.
 
 
 
